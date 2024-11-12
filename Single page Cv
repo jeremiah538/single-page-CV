@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="/sos.png" type="image/x-icon">
+    <title>Single page CV</title>
+</head>
+<body>
+    <header>
+        <h1>Jeremiah Ikhuegbe</h1>
+        <p>Junior Frontend Developer</p>
+        <p>Benin City, ST 13 </p>
+        <p>Phone: 07058023419</p>
+        <p>Email: ikhuegbejeremiah16@gmail.com </p>
+    </header>
+    <main>
+        <section>
+            <h2>Skills</h2>
+            <p>HTML, CSS, JavaScript, Accessibility, Figma to Design,
+                 Responsive Web Design, Technical Writing, Presentation</p>
+        </section>
+            
+        <section>
+            <h2>Experience</h2>
+            <article>
+                <h3>
+                    Front-End Developer with 2 years of Experience
+                </h3>
+                <p>&bull; Worked on projects using HTML, CSS, JavaScript, and React.</p>
+            </article>
+        </section>
+
+        <section>
+            <h2>Education</h2>
+            <article>
+                <h3>Bachelor of Science in Computer Science</h3>
+                <p>University of Benin, 2024</p>
+            </article>
+        </section>    
+    </main>
+    
+    <footer>
+      <p>Find me on <a href="https://github.com/jeremiah538">Github</a></p>  
+    </footer>
+</body>
+</html>
