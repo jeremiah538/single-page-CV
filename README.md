@@ -13,7 +13,7 @@ A well-structured, single-page CV built with semantic HTML5 elements. This proje
 
 ## Project Overview
 This project provides a single-page CV template designed with semantic HTML5. The template organizes the content into meaningful sections to make the CV accessible and readable by both people and search engines.
-
+https://roadmap.sh/projects/single-page-cv 
 The HTML5 structure follows best practices by using elements such as `<header>`, `<main>`, `<section>`, `<article>`, `<aside>`, and `<footer>`. 
 
 ## Technologies Used
